@@ -35,9 +35,6 @@
         });
 
         $('#filter a').click(function(){
-
-
-
             $('#filter a').removeClass('current');
             $(this).addClass('current');
             var selector = $(this).attr('data-filter');

@@ -17,6 +17,16 @@ body {
 	text-shadow: none;
 }
 
+.intro1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 50%;
+	color: #999;
+	text-align:left;
+}
+
+
 .clear {
 	clear: both;
 }
@@ -308,6 +318,10 @@ a:hover {
 
 /*===========================
   --- Sections ----
+  section
+{
+background-color:#FFF
+}
 =========================== */
 
 section.section {
